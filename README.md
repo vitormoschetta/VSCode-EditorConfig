@@ -28,3 +28,17 @@ Dentro da pasta.vscode (a mesma pasta para debug), adicionar o arquivo settings.
 
 
 
+<br>
+
+
+## Adicionar pacote de gerenciamento do editorconfig:
+```
+sudo npm install -g editorconfig
+```
+
+
+<br>
+
+
+Foi gerado um arquivo no rott com nome '.editorconfig', já com todas as configurações recomendadas para dotnet. 
+
